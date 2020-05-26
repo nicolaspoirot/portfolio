@@ -1,0 +1,15 @@
+.header-unit{	top:0%;left:0%;height:100%;width:100%;overflow: hidden;  position:absolute;background-size: cover;margin-left:auto;margin-right:auto;}
+video {	position: absolute;z-index: -1;}
+video.fillWidth {width: 100%;min-height: 100%;}
+#video-container { top:0%; left:0%; height:100%; width:100%; overflow: hidden; background-size:cover} 
+
+
+input[type=text] {
+  border: 1.2pt solid white;
+  border-radius: 20px;
+  background-color: white;
+  color: black;
+  font-size: 20px;
+  font-weight: bold;
+  padding: 10px;
+}
